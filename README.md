@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LukaMiljkovic
 - 👀 I’m interested in full-stack web development
-- 🌱 I’m currently learning front-end 
+- 🌱 I’m currently learning python, flask and much more!
 - 📫 How to reach me: lukamweb@gmail.com
 
 <!---
